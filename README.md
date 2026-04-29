@@ -1,7 +1,7 @@
 
 # BudgetBee - Finance Tracker App 💰
 
-![App Preview](2-%20home.png)
+![App Preview](homepage.png)
 
 ## 📌 Overview
 BudgetBee is a UI/UX design project for a personal finance tracking mobile application designed using Figma. The goal is to help users manage their income, expenses, and savings effectively.
